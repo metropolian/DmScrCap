@@ -1,0 +1,4 @@
+{
+	"AUTOSAVE": true,
+	"AUTOSAVE_DIR": "",
+}
